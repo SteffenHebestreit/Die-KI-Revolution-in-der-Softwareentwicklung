@@ -2,7 +2,7 @@
 
 # **Die KI-Revolution in der Softwareentwicklung: Fluch oder Segen für Unternehmen und Ingenieure?**
 
-## **Executive Summary: Wenn der Code plötzlich von selbst schreibt**
+## **Executive Summary: Wenn der Code sich plötzlich von selbst schreibt**
 
 Stell dir vor, Software entsteht fast wie von Zauberhand. Genau das versprechen uns Künstliche Intelligenz (KI), insbesondere Large Language Models (LLMs) und autonome KI-Agenten. Sie sind nicht mehr nur nette Helferlein, sondern echte Game Changer, die die Softwareentwicklung auf den Kopf stellen. Für Unternehmen klingt das nach einem Traum: mehr Effizienz, weniger Kosten, schnellere Innovation. Und für Softwareingenieure? Da wird's spannend\! Repetitive Aufgaben verschwinden, der Fokus verschiebt sich auf kreative, architektonische Meisterleistungen – und das erfordert natürlich ganz neue Skills.
 
